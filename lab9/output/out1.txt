@@ -1,0 +1,8 @@
+Logical address: 0xd6334873
+Page Fault!
+Logical address: 0x74b0dc51
+Page Fault!
+Logical address: 0xa9495cff
+Page Fault!
+Logical address: 0x2ae8944a
+Page Fault!
